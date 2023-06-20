@@ -1,0 +1,153 @@
+/* element.style {
+    color: white;
+    font-width: 400;
+} */
+.navbar-nav .nav-link.active,
+.navbar-nav .nav-link.show {
+    color: #fff !important;
+    font-weight: 400;
+}
+
+/* Maximum Midia Query*/
+
+@media (max-width: 2000px) {
+    #contectUs {
+        margin-left: 40px;
+    }
+
+    .copy-right {
+        margin-top: 11px;
+    }
+
+    .imagesize {
+        height: 100vh;
+        width: 100%;
+    }
+
+}
+
+@media (max-width: 992px) {
+    .navbar-brand img {
+        padding-left: 40px;
+    }
+
+    .navbar-toggler {
+        margin-right: 25px;
+    }
+
+    .copy-right {
+        margin-top: 11px;
+    }
+
+    .imagesize {
+        height: 80vh;
+        width: 100%;
+    }
+
+    #contectUs {
+        margin-left: 40px;
+    }
+}
+
+
+@media (max-width: 768px) {
+
+    .navbar-brand img {
+        padding-left: 0px;
+    }
+
+    .navbar-toggler {
+        margin-right: 0px;
+    }
+
+
+    .imagesize {
+        height: 50vh;
+        width: 100%;
+    }
+
+
+    #contectUs {
+        margin-left: 23px;
+    }
+
+    .copy-right {
+        margin-top: 12px;
+    }
+}
+
+@media (max-width: 575px) {
+    .imagesize {
+        height: 40vh;
+        width: 100%;
+    }
+
+    #form {
+        margin-right: 15px;
+    }
+
+    .navbar-toggler {
+        border: none;
+    }
+
+    #contectUs {
+        margin-left: 23px;
+    }
+
+    .copy-right {
+        margin-top: 12px;
+    }
+}
+
+
+@media (max-width: 300px) {
+    .imagesize {
+        height: 30vh;
+        width: 100%;
+    }
+
+    #client {
+        height: 90vh;
+    }
+
+    .map {
+        margin-top: 20px;
+    }
+
+    .FAQ {
+        margin-top: -35px;
+    }
+
+
+
+    .navbar-toggler {
+        border: none;
+    }
+
+    .navbar-toggler-icon {
+        height: 1.3rem;
+        width: 1.3rem;
+    }
+
+    #about {
+        padding-top: 0;
+    }
+
+    .progress {
+        height: 0.6rem;
+    }
+
+    #contectUs {
+        margin-left: 11px;
+    }
+
+    .copy-right {
+        margin-top: 10px;
+    }
+
+    #service h5 {
+        font-size: 14px;
+    }
+
+
+}
