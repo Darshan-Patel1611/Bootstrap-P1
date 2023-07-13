@@ -4,7 +4,8 @@ website Deployed On github pages <br/>
 https://darshan-patel1611.github.io/Bootstrap-P1/
 <br/>
 <br/>
-Preview of the wbsite in Mobile <br/>
+Preview of the wbsite in Desktop <br/>
+![Desktop_Preview](https://github.com/Darshan-Patel1611/Bootstrap-P1/assets/137069436/0b526a21-7fdd-45fd-b4a7-22c9e3bfb5f8)
 
 <br/>
 Preview of the wbsite in Mobile <br/>
